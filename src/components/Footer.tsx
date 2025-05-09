@@ -49,7 +49,7 @@ export default function Footer() {
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
           >
-            <h3 className="text-2xl font-light mb-6">ROSSI</h3>
+            <h3 className="text-2xl font-light mb-6">UMASON STUDIO</h3>
             <p className="text-stone-400 mb-6">
               Creating meaningful spaces that inspire and endure through innovative architectural design.
             </p>
@@ -115,7 +115,7 @@ export default function Footer() {
           viewport={{ once: true }}
           className="border-t border-stone-800 pt-8 text-center text-stone-500 text-sm"
         >
-          <p>© {new Date().getFullYear()} Rossi Architecture. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Umason Architecture. All rights reserved.</p>
         </motion.div>
       </div>
     </footer>
